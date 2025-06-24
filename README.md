@@ -8,7 +8,7 @@ Um sistema inteligente de análise de dados que permite fazer perguntas em lingu
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.45+-red.svg)](https://streamlit.io)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3+-green.svg)](https://langchain.com)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-orange.svg)](https://openai.com)
-[![Groq](https://img.shields.io/badge/Groq-Qwen3--32B-purple.svg)](https://groq.com)
+[![Groq](https://img.shields.io/badge/Groq-Gemma2_9b-purple.svg)](https://groq.com)
 
 ---
 
