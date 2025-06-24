@@ -1,0 +1,25 @@
+# 🔐 API KEYS
+OPENAI_API_KEY=sk-proj-ZOghQXl.....FWmw3sA
+# Chave alternativa para fallback, usada quando OpenAI falha ou não está disponível
+GROQ_API_KEY=gsk_.....WA8QxEv
+# Modelo a ser usado com o Groq (padrão: qwen/qwen3-32b)
+GROQ_MODEL=qwen/qwen3-32b
+LANGSMITH_API_KEY=lsv2_pt_5d4ee2861......02d6ba42
+LANGSMITH_TRACING=true
+
+# ⚙️ CONFIGURAÇÕES DE ARQUIVO
+MAX_FILE_SIZE_MB=100
+DEFAULT_ENCODING=utf-8
+
+# 📝 LOGGING
+LOG_LEVEL=DEBUG
+
+# 🌐 STREAMLIT
+STREAMLIT_SERVER_PORT=8501
+STREAMLIT_SERVER_ADDRESS=localhost
+
+ENABLE_LANGGRAPH= True
+ENABLE_LANGGRAPH_COMPARISON=True
+LANGGRAPH_ROLLBACK_ON_ERROR = False # Always fallback if LangGraph fails
+LANGGRAPH_SIMPLE_QUESTIONS_ONLY = False
+ENABLE_PERFORMANCE_LOGGING = True

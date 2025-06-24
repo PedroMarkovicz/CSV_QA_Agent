@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  csv-qa-agent:
+    build: .
+    container_name: csv-qa-agent
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    environment:
+      - PYTHONUNBUFFERED=1 
