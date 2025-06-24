@@ -554,7 +554,7 @@ O **CSV Q&A Agent v3.1** representa uma evolução significativa em análise de 
 [![GitHub stars](https://img.shields.io/github/stars/seu-usuario/CSV_QA_Agent.svg?style=social&label=Star)](https://github.com/seu-usuario/CSV_QA_Agent)
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/CSV_QA_Agent.svg?style=social&label=Fork)](https://github.com/seu-usuario/CSV_QA_Agent/fork)
 
-*Feito com ❤️ usando Python, múltiplos provedores de IA e muito café ☕*
+*Feito com ❤️ usando Python, IA e muito café ☕*
 
 </div>
 
