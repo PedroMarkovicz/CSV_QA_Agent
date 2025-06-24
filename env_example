@@ -1,10 +1,10 @@
 # 🔐 API KEYS
-OPENAI_API_KEY=sk-proj-ZOghQXl.....FWmw3sA
+OPENAI_API_KEY=sk-proj-.........
 # Chave alternativa para fallback, usada quando OpenAI falha ou não está disponível
-GROQ_API_KEY=gsk_.....WA8QxEv
+GROQ_API_KEY=gsk_.........
 # Modelo a ser usado com o Groq (padrão: qwen/qwen3-32b)
-GROQ_MODEL=qwen/qwen3-32b
-LANGSMITH_API_KEY=lsv2_pt_5d4ee2861......02d6ba42
+GROQ_MODEL=gemma2-9b-it
+LANGSMITH_API_KEY=lsv2_pt_.........
 LANGSMITH_TRACING=true
 
 # ⚙️ CONFIGURAÇÕES DE ARQUIVO
